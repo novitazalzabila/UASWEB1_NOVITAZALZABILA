@@ -62,7 +62,7 @@ th {
     </div>
     <table>
         <tr>
-            <th>No</th>
+            <th>N</th>
             <th>Kode</th>
             <th>Nama pelanggan</th>
             <th>Alamat</th>
